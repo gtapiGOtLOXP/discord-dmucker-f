@@ -4,7 +4,7 @@ import json
 import os
 from pystyle import Colors, Colorate, Center, Write
 
-os.system('title https://github.com/17xet ~~~ https://youtube.com/@17xet ~~~ https://discord.gg/mx9raXzU9S')
+os.system('title happy pentesting!!')
 
 banner = """
 
@@ -12,7 +12,7 @@ banner = """
 ┌┬┐┌┬┐  ┌─┐┬ ┬┌─┐┬┌─┌─┐┬─┐
  │││││  ├┤ │ ││  ├┴┐├┤ ├┬┘
 ─┴┘┴ ┴  └  └─┘└─┘┴ ┴└─┘┴└─
-   ( Made by 17xet <3 ) 
+   ( Made by gtapi <3 ) 
 
 
 
