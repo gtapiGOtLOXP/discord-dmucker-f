@@ -81,7 +81,7 @@ Bot2 successfully sent messages.
 
 ## 🙏 Credits
 
-Made with ❤️ by (me)
+Made with ❤️ by (yours truly)
 
 ---
 
